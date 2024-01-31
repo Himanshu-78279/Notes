@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+}
+.container{
+    display: block;
+    width: 30%;
+    height: 20%;
+    margin: auto;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 5px 4px rgba(6, 5, 5, 0.2);
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+    color: grey;
+}
+
+.inp{
+    margin-top: 5px;
+    font-size: 25px;
+    padding: 8px;
+    font-size: 20px;
+    border-style: none;
+}
+textarea{
+    display: block;
+    margin-top: 5px;
+    font-size: 20px;
+    border-style: none;
+}
+button{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 150px;
+    padding: 5px;
+    border-radius: 7px;
+    cursor: pointer;
+    background-color: grey;
+    color: white;
+}
